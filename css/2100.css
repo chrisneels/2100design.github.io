@@ -1,0 +1,69 @@
+/*!
+ * This is 2100 Design
+ */
+
+
+
+body {
+  font-family: 'Georgia', serif;
+  color: black;
+  min-height: 100vh;
+  background: rgb(255,255,255);
+  background: radial-gradient(circle, rgba(255,255,255,1) 0%, rgba(230,230,230,1) 100%);
+  
+  /* playground /\/\ blue-orange /\/\
+  background: white;
+  background: linear-gradient(180deg, rgba(0,0,0,0.01) 0%, white 100%);
+
+  background: rgb(232,149,138);
+  background: linear-gradient(0deg, rgba(255,255,255,0) 0%, rgba(0,0,0,.1) 100%);
+  background: linear-gradient(0deg, rgba(232,149,138,0.8) 0%, rgba(149,159,232,.7) 100%);
+  */
+}
+
+.container {
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 5%;
+  width: 450px;
+}
+
+h1 {
+  font-size: 36px;
+  text-align: center;
+  margin: 0px;
+}
+
+h2 {
+  font-size: 14px;
+  text-align: center;
+  margin-top: 4px;
+  margin-bottom: 48px;
+  font-weight: normal;
+  color: #666666;
+
+}
+
+p {
+  font-size: 14px;
+  line-height: 1.5;
+  margin: 18px;
+}
+
+a {
+  text-decoration: underline;
+  color: black;
+
+}
+
+a:hover,
+a:focus {
+  color: purple;
+}
+
+@media (max-width: 600px) {
+  .container {
+    width: 100%;
+  }
+
+}
