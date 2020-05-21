@@ -8,8 +8,8 @@ body {
   font-family: 'Georgia', serif;
   color: black;
   min-height: 100vh;
-  background: rgb(255,255,255);
-  background: radial-gradient(circle, rgba(255,255,255,1) 0%, rgba(230,230,230,1) 100%);
+  background: rgb(250,250,250);
+  background: radial-gradient(circle, rgba(250,250,250,1) 0%, rgba(240,240,240,1) 100%);
   
   /* playground /\/\ blue-orange /\/\
   background: white;
