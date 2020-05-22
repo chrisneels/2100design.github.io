@@ -7,9 +7,7 @@
 body {
   font-family: 'Georgia', serif;
   color: black;
-  min-height: 100vh;
-  background: rgb(250,250,250);
-  background: radial-gradient(circle, rgba(250,250,250,1) 0%, rgba(240,240,240,1) 100%);
+  background: white;
   
   /* playground /\/\ blue-orange /\/\
   background: white;
@@ -18,6 +16,8 @@ body {
   background: rgb(232,149,138);
   background: linear-gradient(0deg, rgba(255,255,255,0) 0%, rgba(0,0,0,.1) 100%);
   background: linear-gradient(0deg, rgba(232,149,138,0.8) 0%, rgba(149,159,232,.7) 100%);
+
+  background: radial-gradient(circle, white 0%, rgba(250,250,250,1) 100%);
   */
 }
 
