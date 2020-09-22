@@ -814,7 +814,7 @@ a {
   }
   .column-3 {
     display: none;
-    overflow: hidden;
+    /* overflow: hidden; */
   }
   .div-block-6.wide {
     margin-top: 50px;
