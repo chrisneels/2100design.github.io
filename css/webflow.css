@@ -440,7 +440,7 @@ a {
   padding-left: 30px;
   float: right;
   clear: none;
-  background-color: #00ffe1;
+  background-color: #ffde00;
   font-family: t26-carbon, sans-serif;
   color: #000;
   text-align: right;
@@ -466,7 +466,8 @@ a {
 }
 
 .link-4 {
-  color: #5a5a5a;
+  position: static;
+  color: #414141;
 }
 
 .link-5 {
