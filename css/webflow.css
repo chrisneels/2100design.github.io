@@ -744,6 +744,15 @@ a {
     /* overflow: hidden; */
     padding-left: 20px;
   }
+  .text-block-2-top {
+  	padding-top: 30px;
+  	font-size: 18px;
+  	padding-bottom: 10px;
+  }
+  .text-block-2-bottom {
+  	padding-top: 10px;
+  	padding-bottom: 30px;
+  }ƒ
   .paragraph {
     margin-left: 0px;
     padding-right: 0px;
@@ -811,10 +820,6 @@ a {
   .column-2 {
     padding-right: 0px;
     padding-left: 0px;
-  }
-  .column-3 {
-    /* display: none;
-    overflow: hidden; */
   }
   .div-block-6.wide {
     margin-top: 50px;
